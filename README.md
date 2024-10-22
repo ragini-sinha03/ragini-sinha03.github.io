@@ -1,3 +1,4 @@
-# Heading 1
-## Heading 2
-![Continous Intellegence](https://github.com/user-attachments/assets/f794da73-b80c-473d-8fb7-9a821be44336)
+# Continous Intelligence
+## ![image](https://github.com/user-attachments/assets/aa67f10d-5d49-41f7-94d5-a3fd1875c4d6)
+
+
